@@ -1,9 +1,9 @@
 # Gery Vessere
 
-Personal homepage at https://gvessere.github.io/.
+Personal biography at https://gvessere.github.io/.
 
-The RoPE research website and code live separately at https://github.com/gvessere/rope-investigation and https://gvessere.github.io/rope-investigation/.
+The bracketed paragraphs in `index.html` are intentionally left for Gery to fill in: introduction, background, and personal interests. No employment history or credentials have been inferred. HTML comments identify the editable sections.
 
-The short bio uses public projects and stated research interests. Employment history, degrees, and other credentials have not been inferred.
+One personal note links to the separate exploration of positional encodings at https://gvessere.github.io/rope-investigation/. Its source and code live in https://github.com/gvessere/rope-investigation.
 
-This is a static HTML/CSS site. GitHub Pages serves `main` from the repository root.
+This is a static HTML/CSS site served by GitHub Pages from the repository root.
