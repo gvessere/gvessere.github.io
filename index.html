@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Gery Vessere</title>
-  <meta name="description" content="Gery Vessere — about me, my background, and a few things I wanted to understand.">
+  <meta name="description" content="Gery Vessere, AI Research Engineer specializing in scientific computing, AI for DNA sequencing, and language-model architectures.">
   <link rel="stylesheet" href="style.css">
   <style>
     .personal-page{max-width:820px;margin:0 auto;padding:0 30px}
@@ -12,7 +12,7 @@
     .personal-intro{padding:84px 0 30px}.personal-intro h1{font-size:68px;margin-bottom:26px}
     .personal-intro .lead{max-width:640px}.bio-section{max-width:680px;padding:12px 0}
     .bio-section h2{font-size:29px;margin:28px 0 18px}
-    .placeholder{color:#738078;font-style:italic}.personal-notes{border-top:1px solid var(--line);margin-top:45px;padding-top:28px;max-width:680px}
+    .personal-notes{border-top:1px solid var(--line);margin-top:45px;padding-top:28px;max-width:680px}
     .personal-notes h2{font-size:29px;margin:0 0 20px}.personal-notes p{font-size:16px}
     @media(max-width:520px){.personal-page{padding:0 22px}.personal-intro{padding-top:52px}.personal-intro h1{font-size:47px}}
   </style>
@@ -22,24 +22,21 @@
 <div class="personal-page">
   <header class="masthead">
     <a class="brand" href="index.html">Gery Vessere</a>
-    <nav aria-label="Primary"><a href="#about">About</a><a href="#background">Background</a></nav>
+    <nav aria-label="Primary"><a href="#about">About me</a><a href="#notes">Explorations</a></nav>
   </header>
   <main id="main">
-    <section class="personal-intro" id="about">
+    <section class="personal-intro">
       <h1>Gery Vessere</h1>
-      <!-- Replace the bracketed text with your own introduction. -->
-      <p class="lead placeholder">[A few words about me: who I am, what I do, and what interests me.]</p>
+      <p class="lead">AI Research Engineer</p>
     </section>
-    <section class="bio-section" id="background">
-      <h2>A little about my background</h2>
-      <!-- This section is deliberately left for your own biography. -->
-      <p class="placeholder">[My background, the work I’ve done, and the experiences that brought me here.]</p>
-      <p class="placeholder">[The things I enjoy working on, learning about, or doing outside work.]</p>
+    <section class="bio-section" id="about">
+      <h2>About Me</h2>
+      <p>I am an AI Research Engineer with broad industry experience. My work has focused on scientific computing, training AI models, and researching and implementing efficient solutions to practical problems.</p>
+      <p>With extensive experience at leading companies in DNA sequencing, I specialize in applying AI to DNA sequencing problems.</p>
+      <p>I have a deep interest in training language models and exploring and modifying their architectures. Here, I share some of those explorations.</p>
     </section>
-    <section class="personal-notes">
-      <h2>Something I wanted to understand</h2>
-      <p>I wanted to understand how positional encodings help a transformer know where to look. That led me to RoPE, then to a connection with Fourier transforms, and eventually to some experiments with attention.</p>
-      <p>I’ve collected <a href="https://gvessere.github.io/rope-investigation/">a few notes from that exploration</a>—the questions I started with, some useful pictures, and what I found along the way.</p>
+    <section class="personal-notes" id="notes">
+      <h2><a href="https://gvessere.github.io/rope-investigation/">Investigating ROPE</a></h2>
     </section>
   </main>
   <footer class="site-footer"><span>Gery Vessere</span><a href="https://github.com/gvessere">GitHub ↗</a></footer>
