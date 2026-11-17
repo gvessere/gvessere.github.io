@@ -14,6 +14,7 @@
     .bio-section h2{font-size:29px;margin:28px 0 18px}
     .personal-notes{border-top:1px solid var(--line);margin-top:45px;padding-top:28px;max-width:680px}
     .personal-notes h2{font-size:29px;margin:0 0 20px}.personal-notes p{font-size:16px}
+    .patent-list{padding-left:20px}.patent-list li{margin-bottom:20px;line-height:1.6}.patent-dates,.patent-alias,.patent-note{font-size:13px;color:var(--muted)}.patent-dates{display:inline-block;margin-top:3px}
     @media(max-width:520px){.personal-page{padding:0 22px}.personal-intro{padding-top:52px}.personal-intro h1{font-size:47px}}
   </style>
 </head>
@@ -32,7 +33,7 @@
     <section class="bio-section" id="about">
       <h2>About Me</h2>
       <p>I am an AI Research Engineer with broad industry experience. Over the past two decades, my work has focused on scientific computing, training AI models, and researching and implementing efficient solutions to practical problems.</p>
-      <p>My background is in applying machine learning methods to engineering problems. My main focus has been applying these methods to DNA sequencing systems at Illumina, Inc. and Element Biosciences, two industry leaders in genomics. Some of the inventions I have worked on are listed <a href="#inventions">below</a>.</p>
+      <p>My background is in applying machine learning methods to engineering problems. My main focus has been applying these methods to DNA sequencing systems at Illumina, Inc. and Element Biosciences, two industry leaders in genomics. The published inventions I have worked on are listed <a href="#inventions">below</a>.</p>
       <p>With more time on my hands, I recently began a series of articles sharing my explorations as an independent researcher. Much of my interest in recent years has centered on language models, so the series naturally follows that interest. My aim is to explore and characterize their inner workings, understand them better, and possibly find new ways to improve the state of the art.</p>
     </section>
     <section class="personal-notes" id="notes">
@@ -41,12 +42,36 @@
       <p><a href="https://gvessere.github.io/rope-investigation/rope-in-practice.html">Part 2: Deep dive in ROPE pair data</a></p>
     </section>
     <section class="personal-notes" id="inventions">
-      <h2>Selected inventions</h2>
-      <ul>
-        <li><a href="https://patents.google.com/patent/US12591780B2/en">Data compression for artificial intelligence-based base calling</a></li>
-        <li><a href="https://patents.google.com/patent/US20230343414A1/en">Sequence-to-sequence base calling</a></li>
-        <li><a href="https://patents.google.com/patent/WO2023175029A1/en">Concurrent sequencing of hetero n-mer polynucleotides</a></li>
+      <h2>Inventions</h2>
+      <p>Published patent inventions on which I am named as a co-inventor. Related filings in different countries and subsequent grants are grouped under one invention title.</p>
+      <p class="patent-note">Dates show the earliest priority recorded in the sources and the publication date of the linked record. Updated November 16, 2026.</p>
+      <ul class="patent-list">
+        <li><a href="https://patents.google.com/patent/WO2026080196A1/en">Machine learning methods and systems for detecting structural variants</a><br><span class="patent-dates">Priority: <time datetime="2024-10-09">2024-10-09</time> · Published: <time datetime="2026-04-16">2026-04-16</time> · WO2026080196A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2026072986A1/en">Determining offline corrections for sequence specific errors caused by low complexity sequences using a machine learning model</a><br><span class="patent-dates">Priority: <time datetime="2024-09-27">2024-09-27</time> · Published: <time datetime="2026-04-02">2026-04-02</time> · WO2026072986A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2026006771A1/en">Cluster-filtering scores</a><br><span class="patent-dates">Priority: <time datetime="2024-06-28">2024-06-28</time> · Published: <time datetime="2026-01-02">2026-01-02</time> · WO2026006771A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2025190902A1/en">Improving base calling quality scores</a><br><span class="patent-dates">Priority: <time datetime="2024-03-13">2024-03-13</time> · Published: <time datetime="2025-09-18">2025-09-18</time> · WO2025190902A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2025061942A1/en">Sequencing error identification and correction</a><br><span class="patent-dates">Priority: <time datetime="2023-09-20">2023-09-20</time> · Published: <time datetime="2025-03-27">2025-03-27</time> · WO2025061942A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2025061922A1/en">Methods for sequencing</a><br><span class="patent-dates">Priority: <time datetime="2023-09-20">2023-09-20</time> · Published: <time datetime="2025-03-27">2025-03-27</time> · WO2025061922A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2024137886A1/en">Context-dependent base calling</a><br><span class="patent-dates">Priority: <time datetime="2022-12-21">2022-12-21</time> · Published: <time datetime="2024-06-27">2024-06-27</time> · WO2024137886A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2024059852A1/en">Cluster segmentation and conditional base calling</a><br><span class="patent-dates">Priority: <time datetime="2022-09-16">2022-09-16</time> · Published: <time datetime="2024-03-21">2024-03-21</time> · WO2024059852A1</span></li>
+        <li><a href="https://patents.google.com/patent/US20230383342A1/en">Compositions and methods for nucleic acid sequencing</a><br><span class="patent-dates">Priority: <time datetime="2022-05-31">2022-05-31</time> · Published: <time datetime="2023-11-30">2023-11-30</time> · US20230383342A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2023183937A1/en">Sequence-to-sequence base calling</a><br><span class="patent-dates">Priority: <time datetime="2022-03-25">2022-03-25</time> · Published: <time datetime="2023-09-28">2023-09-28</time> · WO2023183937A1</span></li>
+        <li><a href="https://patents.google.com/patent/US20230295719A1/en">Paired-end sequencing</a><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2023-09-21">2023-09-21</time> · US20230295719A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2023175029A1/en">Methods of preparing libraries for sequencing and methods of analysis</a><br><span class="patent-alias">Also published as “Concurrent sequencing of hetero n-mer polynucleotides”.</span><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2023-09-21">2023-09-21</time> · WO2023175029A1</span></li>
+        <li><a href="https://patents.google.com/patent/HK40116232A/en">Methods of determining sequence information</a><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2025-04-17">2025-04-17</time> · HK40116232A</span></li>
+        <li><a href="https://patents.google.com/patent/HK40106880A/en">Methods of base calling nucleobases</a><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2024-09-27">2024-09-27</time> · HK40106880A</span></li>
+        <li><a href="https://patents.google.com/patent/HK40118536A/en">Methods for preparing signals for concurrent sequencing</a><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2025-06-20">2025-06-20</time> · HK40118536A</span></li>
+        <li><a href="https://patents.google.com/patent/WO2023175037A2/en">Concurrent sequencing of forward and reverse complement strands on separate polynucleotides for methylation detection</a><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2023-09-21">2023-09-21</time> · WO2023175037A2</span></li>
+        <li><a href="https://patents.google.com/patent/WO2023175041A1/en">Concurrent sequencing of forward and reverse complement strands on concatenated polynucleotides</a><br><span class="patent-dates">Priority: <time datetime="2022-03-15">2022-03-15</time> · Published: <time datetime="2023-09-21">2023-09-21</time> · WO2023175041A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2023278788A1/en">Efficient artificial intelligence-based base calling of index sequences</a><br><span class="patent-dates">Priority: <time datetime="2021-07-01">2021-07-01</time> · Published: <time datetime="2023-01-05">2023-01-05</time> · WO2023278788A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2021168358A1/en">Split architecture for artificial intelligence-based base caller</a><br><span class="patent-dates">Priority: <time datetime="2020-02-20">2020-02-20</time> · Published: <time datetime="2021-08-26">2021-08-26</time> · WO2021168358A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2021168014A1/en">Knowledge distillation and gradient pruning-based compression of artificial intelligence-based base caller</a><br><span class="patent-dates">Priority: <time datetime="2020-02-20">2020-02-20</time> · Published: <time datetime="2021-08-26">2021-08-26</time> · WO2021168014A1</span></li>
+        <li><a href="https://patents.google.com/patent/WO2021168018A1/en">Hardware Execution and Acceleration of Artificial Intelligence-Based Base Caller</a><br><span class="patent-dates">Priority: <time datetime="2020-02-20">2020-02-20</time> · Published: <time datetime="2021-08-26">2021-08-26</time> · WO2021168018A1</span></li>
+        <li><a href="https://patents.google.com/patent/HK40076753A/en">Data compression for artificial intelligence-based base calling</a><br><span class="patent-dates">Priority: <time datetime="2020-02-20">2020-02-20</time> · Published: <time datetime="2023-02-17">2023-02-17</time> · HK40076753A</span></li>
+        <li><a href="https://patents.google.com/patent/HK40076752A/en">Bus network for artificial intelligence-based base caller</a><br><span class="patent-dates">Priority: <time datetime="2020-02-20">2020-02-20</time> · Published: <time datetime="2023-02-17">2023-02-17</time> · HK40076752A</span></li>
+        <li><a href="https://patents.google.com/patent/WO2021168353A2/en">Artificial intelligence-based many-to-many base calling</a><br><span class="patent-dates">Priority: <time datetime="2020-02-20">2020-02-20</time> · Published: <time datetime="2021-08-26">2021-08-26</time> · WO2021168353A2</span></li>
       </ul>
+      <p class="patent-note"><a href="inventions.json">Patent records and sources</a></p>
     </section>
   </main>
   <footer class="site-footer"><span>Gery Vessere · 2026</span><a href="https://github.com/gvessere">GitHub ↗</a></footer>

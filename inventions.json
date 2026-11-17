@@ -1,0 +1,777 @@
+{
+  "checked_on": "2026-11-16",
+  "scope": "Published patent inventions naming Gery Vessere or Gery M. Vessere. Grouped by invention title, merging related national filings and the verified family title change for WO2023175029A1 / US20250084402A1. Dates show earliest priority in verified representative records and publication of the linked record, not an invention date.",
+  "inventions": [
+    {
+      "record": "WO2026080196A1",
+      "url": "https://patents.google.com/patent/WO2026080196A1/en",
+      "title": "Machine learning methods and systems for detecting structural variants",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2024-10-09",
+      "filing": "2025-09-16",
+      "publication": "2026-04-16",
+      "family_id": "97491247",
+      "records": [
+        {
+          "record": "WO2026080196A1",
+          "url": "https://patents.google.com/patent/WO2026080196A1/en",
+          "priority": "2024-10-09",
+          "filing": "2025-09-16",
+          "publication": "2026-04-16"
+        }
+      ],
+      "display_record": {
+        "record": "WO2026080196A1",
+        "url": "https://patents.google.com/patent/WO2026080196A1/en",
+        "priority": "2024-10-09",
+        "filing": "2025-09-16",
+        "publication": "2026-04-16"
+      }
+    },
+    {
+      "record": "WO2026072986A1",
+      "url": "https://patents.google.com/patent/WO2026072986A1/en",
+      "title": "Determining offline corrections for sequence specific errors caused by low complexity sequences using a machine learning model",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2024-09-27",
+      "filing": "2025-09-26",
+      "publication": "2026-04-02",
+      "family_id": "97598919",
+      "records": [
+        {
+          "record": "WO2026072986A1",
+          "url": "https://patents.google.com/patent/WO2026072986A1/en",
+          "priority": "2024-09-27",
+          "filing": "2025-09-26",
+          "publication": "2026-04-02"
+        }
+      ],
+      "display_record": {
+        "record": "WO2026072986A1",
+        "url": "https://patents.google.com/patent/WO2026072986A1/en",
+        "priority": "2024-09-27",
+        "filing": "2025-09-26",
+        "publication": "2026-04-02"
+      }
+    },
+    {
+      "record": "WO2026006771A1",
+      "url": "https://patents.google.com/patent/WO2026006771A1/en",
+      "title": "Cluster-filtering scores",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2024-06-28",
+      "filing": "2025-06-27",
+      "publication": "2026-01-02",
+      "family_id": "96736768",
+      "records": [
+        {
+          "record": "WO2026006771A1",
+          "url": "https://patents.google.com/patent/WO2026006771A1/en",
+          "priority": "2024-06-28",
+          "filing": "2025-06-27",
+          "publication": "2026-01-02"
+        }
+      ],
+      "display_record": {
+        "record": "WO2026006771A1",
+        "url": "https://patents.google.com/patent/WO2026006771A1/en",
+        "priority": "2024-06-28",
+        "filing": "2025-06-27",
+        "publication": "2026-01-02"
+      }
+    },
+    {
+      "record": "WO2025190902A1",
+      "url": "https://patents.google.com/patent/WO2025190902A1/en",
+      "title": "Improving base calling quality scores",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2024-03-13",
+      "filing": "2025-03-11",
+      "publication": "2025-09-18",
+      "family_id": "94974020",
+      "records": [
+        {
+          "record": "WO2025190902A1",
+          "url": "https://patents.google.com/patent/WO2025190902A1/en",
+          "priority": "2024-03-13",
+          "filing": "2025-03-11",
+          "publication": "2025-09-18"
+        }
+      ],
+      "display_record": {
+        "record": "WO2025190902A1",
+        "url": "https://patents.google.com/patent/WO2025190902A1/en",
+        "priority": "2024-03-13",
+        "filing": "2025-03-11",
+        "publication": "2025-09-18"
+      }
+    },
+    {
+      "record": "EP4781417A1",
+      "url": "https://patents.google.com/patent/EP4781417A1/en",
+      "title": "Sequencing error identification and correction",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2023-09-20",
+      "filing": "2024-09-20",
+      "publication": "2026-07-29",
+      "family_id": "92899781",
+      "records": [
+        {
+          "record": "EP4781417A1",
+          "url": "https://patents.google.com/patent/EP4781417A1/en",
+          "priority": "2023-09-20",
+          "filing": "2024-09-20",
+          "publication": "2026-07-29"
+        },
+        {
+          "record": "WO2025061942A1",
+          "url": "https://patents.google.com/patent/WO2025061942A1/en",
+          "priority": "2023-09-20",
+          "filing": "2024-09-20",
+          "publication": "2025-03-27"
+        }
+      ],
+      "display_record": {
+        "record": "WO2025061942A1",
+        "url": "https://patents.google.com/patent/WO2025061942A1/en",
+        "priority": "2023-09-20",
+        "filing": "2024-09-20",
+        "publication": "2025-03-27"
+      }
+    },
+    {
+      "record": "EP4781416A1",
+      "url": "https://patents.google.com/patent/EP4781416A1/en",
+      "title": "Methods for sequencing",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2023-09-20",
+      "filing": "2024-09-20",
+      "publication": "2026-07-29",
+      "family_id": "92882959",
+      "records": [
+        {
+          "record": "EP4781416A1",
+          "url": "https://patents.google.com/patent/EP4781416A1/en",
+          "priority": "2023-09-20",
+          "filing": "2024-09-20",
+          "publication": "2026-07-29"
+        },
+        {
+          "record": "WO2025061922A1",
+          "url": "https://patents.google.com/patent/WO2025061922A1/en",
+          "priority": "2023-09-20",
+          "filing": "2024-09-20",
+          "publication": "2025-03-27"
+        }
+      ],
+      "display_record": {
+        "record": "WO2025061922A1",
+        "url": "https://patents.google.com/patent/WO2025061922A1/en",
+        "priority": "2023-09-20",
+        "filing": "2024-09-20",
+        "publication": "2025-03-27"
+      }
+    },
+    {
+      "record": "EP4639552A1",
+      "url": "https://patents.google.com/patent/EP4639552A1/en",
+      "title": "Context-dependent base calling",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-12-21",
+      "filing": "2023-12-20",
+      "publication": "2025-10-29",
+      "family_id": "89663291",
+      "records": [
+        {
+          "record": "EP4639552A1",
+          "url": "https://patents.google.com/patent/EP4639552A1/en",
+          "priority": "2022-12-21",
+          "filing": "2023-12-20",
+          "publication": "2025-10-29"
+        },
+        {
+          "record": "WO2024137886A1",
+          "url": "https://patents.google.com/patent/WO2024137886A1/en",
+          "priority": "2022-12-21",
+          "filing": "2023-12-20",
+          "publication": "2024-06-27"
+        }
+      ],
+      "display_record": {
+        "record": "WO2024137886A1",
+        "url": "https://patents.google.com/patent/WO2024137886A1/en",
+        "priority": "2022-12-21",
+        "filing": "2023-12-20",
+        "publication": "2024-06-27"
+      }
+    },
+    {
+      "record": "AU2023342375A1",
+      "url": "https://patents.google.com/patent/AU2023342375A1/en",
+      "title": "Cluster segmentation and conditional base calling",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-09-16",
+      "filing": "2023-09-15",
+      "publication": "2025-01-16",
+      "family_id": "88373759",
+      "records": [
+        {
+          "record": "AU2023342375A1",
+          "url": "https://patents.google.com/patent/AU2023342375A1/en",
+          "priority": "2022-09-16",
+          "filing": "2023-09-15",
+          "publication": "2025-01-16"
+        },
+        {
+          "record": "WO2024059852A1",
+          "url": "https://patents.google.com/patent/WO2024059852A1/en",
+          "priority": "2022-09-16",
+          "filing": "2023-09-15",
+          "publication": "2024-03-21"
+        }
+      ],
+      "display_record": {
+        "record": "WO2024059852A1",
+        "url": "https://patents.google.com/patent/WO2024059852A1/en",
+        "priority": "2022-09-16",
+        "filing": "2023-09-15",
+        "publication": "2024-03-21"
+      }
+    },
+    {
+      "record": "US20230383342A1",
+      "url": "https://patents.google.com/patent/US20230383342A1/en",
+      "title": "Compositions and methods for nucleic acid sequencing",
+      "inventors": [
+        "Gery M. Vessere"
+      ],
+      "priority": "2022-05-31",
+      "filing": "2023-05-30",
+      "publication": "2023-11-30",
+      "family_id": "86710834",
+      "records": [
+        {
+          "record": "US20230383342A1",
+          "url": "https://patents.google.com/patent/US20230383342A1/en",
+          "priority": "2022-05-31",
+          "filing": "2023-05-30",
+          "publication": "2023-11-30"
+        },
+        {
+          "record": "WO2023232829A1",
+          "url": "https://patents.google.com/patent/WO2023232829A1/en",
+          "priority": "2022-05-31",
+          "filing": "2023-05-30",
+          "publication": "2023-12-07"
+        }
+      ],
+      "display_record": {
+        "record": "US20230383342A1",
+        "url": "https://patents.google.com/patent/US20230383342A1/en",
+        "priority": "2022-05-31",
+        "filing": "2023-05-30",
+        "publication": "2023-11-30"
+      }
+    },
+    {
+      "record": "US20230343414A1",
+      "url": "https://patents.google.com/patent/US20230343414A1/en",
+      "title": "Sequence-to-sequence base calling",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-25",
+      "filing": "2023-03-24",
+      "publication": "2023-10-26",
+      "family_id": "86052222",
+      "records": [
+        {
+          "record": "US20230343414A1",
+          "url": "https://patents.google.com/patent/US20230343414A1/en",
+          "priority": "2022-03-25",
+          "filing": "2023-03-24",
+          "publication": "2023-10-26"
+        },
+        {
+          "record": "WO2023183937A1",
+          "url": "https://patents.google.com/patent/WO2023183937A1/en",
+          "priority": "2022-03-25",
+          "filing": "2023-03-24",
+          "publication": "2023-09-28"
+        }
+      ],
+      "display_record": {
+        "record": "WO2023183937A1",
+        "url": "https://patents.google.com/patent/WO2023183937A1/en",
+        "priority": "2022-03-25",
+        "filing": "2023-03-24",
+        "publication": "2023-09-28"
+      }
+    },
+    {
+      "record": "US20230295719A1",
+      "url": "https://patents.google.com/patent/US20230295719A1/en",
+      "title": "Paired-end sequencing",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2023-03-15",
+      "publication": "2023-09-21",
+      "family_id": "88066511",
+      "records": [
+        {
+          "record": "US20230295719A1",
+          "url": "https://patents.google.com/patent/US20230295719A1/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2023-09-21"
+        }
+      ],
+      "display_record": {
+        "record": "US20230295719A1",
+        "url": "https://patents.google.com/patent/US20230295719A1/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2023-09-21"
+      }
+    },
+    {
+      "record": "US20250084402A1",
+      "url": "https://patents.google.com/patent/US20250084402A1/en",
+      "title": "Methods of preparing libraries for sequencing and methods of analysis",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2024-09-13",
+      "publication": "2025-03-13",
+      "family_id": "85772687",
+      "records": [
+        {
+          "record": "US20250084402A1",
+          "url": "https://patents.google.com/patent/US20250084402A1/en",
+          "priority": "2022-03-15",
+          "filing": "2024-09-13",
+          "publication": "2025-03-13"
+        },
+        {
+          "record": "WO2023175029A1",
+          "url": "https://patents.google.com/patent/WO2023175029A1/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2023-09-21"
+        }
+      ],
+      "also_published_as": "Concurrent sequencing of hetero n-mer polynucleotides",
+      "display_record": {
+        "record": "WO2023175029A1",
+        "url": "https://patents.google.com/patent/WO2023175029A1/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2023-09-21"
+      }
+    },
+    {
+      "record": "HK40116232A",
+      "url": "https://patents.google.com/patent/HK40116232A/en",
+      "title": "Methods of determining sequence information",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2023-03-15",
+      "publication": "2025-04-17",
+      "family_id": null,
+      "records": [
+        {
+          "record": "HK40116232A",
+          "url": "https://patents.google.com/patent/HK40116232A/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2025-04-17"
+        }
+      ],
+      "display_record": {
+        "record": "HK40116232A",
+        "url": "https://patents.google.com/patent/HK40116232A/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2025-04-17"
+      }
+    },
+    {
+      "record": "HK40106880A",
+      "url": "https://patents.google.com/patent/HK40106880A/en",
+      "title": "Methods of base calling nucleobases",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2023-03-15",
+      "publication": "2024-09-27",
+      "family_id": null,
+      "records": [
+        {
+          "record": "HK40106880A",
+          "url": "https://patents.google.com/patent/HK40106880A/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2024-09-27"
+        }
+      ],
+      "display_record": {
+        "record": "HK40106880A",
+        "url": "https://patents.google.com/patent/HK40106880A/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2024-09-27"
+      }
+    },
+    {
+      "record": "HK40118536A",
+      "url": "https://patents.google.com/patent/HK40118536A/en",
+      "title": "Methods for preparing signals for concurrent sequencing",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2023-03-15",
+      "publication": "2025-06-20",
+      "family_id": null,
+      "records": [
+        {
+          "record": "HK40118536A",
+          "url": "https://patents.google.com/patent/HK40118536A/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2025-06-20"
+        }
+      ],
+      "display_record": {
+        "record": "HK40118536A",
+        "url": "https://patents.google.com/patent/HK40118536A/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2025-06-20"
+      }
+    },
+    {
+      "record": "AU2023234670A1",
+      "url": "https://patents.google.com/patent/AU2023234670A1/en",
+      "title": "Concurrent sequencing of forward and reverse complement strands on separate polynucleotides for methylation detection",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2023-03-15",
+      "publication": "2024-01-18",
+      "family_id": "85800563",
+      "records": [
+        {
+          "record": "AU2023234670A1",
+          "url": "https://patents.google.com/patent/AU2023234670A1/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2024-01-18"
+        },
+        {
+          "record": "WO2023175037A2",
+          "url": "https://patents.google.com/patent/WO2023175037A2/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2023-09-21"
+        }
+      ],
+      "display_record": {
+        "record": "WO2023175037A2",
+        "url": "https://patents.google.com/patent/WO2023175037A2/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2023-09-21"
+      }
+    },
+    {
+      "record": "HK40124092A",
+      "url": "https://patents.google.com/patent/HK40124092A/en",
+      "title": "Concurrent sequencing of forward and reverse complement strands on concatenated polynucleotides",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2022-03-15",
+      "filing": "2023-03-15",
+      "publication": "2025-11-07",
+      "family_id": null,
+      "records": [
+        {
+          "record": "HK40124092A",
+          "url": "https://patents.google.com/patent/HK40124092A/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2025-11-07"
+        },
+        {
+          "record": "WO2023175041A1",
+          "url": "https://patents.google.com/patent/WO2023175041A1/en",
+          "priority": "2022-03-15",
+          "filing": "2023-03-15",
+          "publication": "2023-09-21"
+        }
+      ],
+      "display_record": {
+        "record": "WO2023175041A1",
+        "url": "https://patents.google.com/patent/WO2023175041A1/en",
+        "priority": "2022-03-15",
+        "filing": "2023-03-15",
+        "publication": "2023-09-21"
+      }
+    },
+    {
+      "record": "EP4364152A1",
+      "url": "https://patents.google.com/patent/EP4364152A1/en",
+      "title": "Efficient artificial intelligence-based base calling of index sequences",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2021-07-01",
+      "filing": "2022-06-30",
+      "publication": "2024-05-08",
+      "family_id": "82850700",
+      "records": [
+        {
+          "record": "EP4364152A1",
+          "url": "https://patents.google.com/patent/EP4364152A1/en",
+          "priority": "2021-07-01",
+          "filing": "2022-06-30",
+          "publication": "2024-05-08"
+        },
+        {
+          "record": "WO2023278788A1",
+          "url": "https://patents.google.com/patent/WO2023278788A1/en",
+          "priority": "2021-07-01",
+          "filing": "2022-06-30",
+          "publication": "2023-01-05"
+        }
+      ],
+      "display_record": {
+        "record": "WO2023278788A1",
+        "url": "https://patents.google.com/patent/WO2023278788A1/en",
+        "priority": "2021-07-01",
+        "filing": "2022-06-30",
+        "publication": "2023-01-05"
+      }
+    },
+    {
+      "record": "US12699902B2",
+      "url": "https://patents.google.com/patent/US12699902B2/en",
+      "title": "Split architecture for artificial intelligence-based base caller",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2020-02-20",
+      "filing": "2021-02-19",
+      "publication": "2026-08-04",
+      "family_id": "77366219",
+      "records": [
+        {
+          "record": "US12699902B2",
+          "url": "https://patents.google.com/patent/US12699902B2/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-19",
+          "publication": "2026-08-04"
+        },
+        {
+          "record": "WO2021168358A1",
+          "url": "https://patents.google.com/patent/WO2021168358A1/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-19",
+          "publication": "2021-08-26"
+        }
+      ],
+      "display_record": {
+        "record": "WO2021168358A1",
+        "url": "https://patents.google.com/patent/WO2021168358A1/en",
+        "priority": "2020-02-20",
+        "filing": "2021-02-19",
+        "publication": "2021-08-26"
+      }
+    },
+    {
+      "record": "EP4107737B1",
+      "url": "https://patents.google.com/patent/EP4107737B1/en",
+      "title": "Knowledge distillation and gradient pruning-based compression of artificial intelligence-based base caller",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2020-02-20",
+      "filing": "2021-02-17",
+      "publication": "2024-08-21",
+      "family_id": "77366220",
+      "records": [
+        {
+          "record": "EP4107737B1",
+          "url": "https://patents.google.com/patent/EP4107737B1/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-17",
+          "publication": "2024-08-21"
+        },
+        {
+          "record": "WO2021168014A1",
+          "url": "https://patents.google.com/patent/WO2021168014A1/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-17",
+          "publication": "2021-08-26"
+        }
+      ],
+      "display_record": {
+        "record": "WO2021168014A1",
+        "url": "https://patents.google.com/patent/WO2021168014A1/en",
+        "priority": "2020-02-20",
+        "filing": "2021-02-17",
+        "publication": "2021-08-26"
+      }
+    },
+    {
+      "record": "US20260188429A1",
+      "url": "https://patents.google.com/patent/US20260188429A1/en",
+      "title": "Hardware Execution and Acceleration of Artificial Intelligence-Based Base Caller",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2020-02-20",
+      "filing": "2026-02-13",
+      "publication": "2026-07-02",
+      "family_id": "77366277",
+      "records": [
+        {
+          "record": "US20260188429A1",
+          "url": "https://patents.google.com/patent/US20260188429A1/en",
+          "priority": "2020-02-20",
+          "filing": "2026-02-13",
+          "publication": "2026-07-02"
+        },
+        {
+          "record": "WO2021168018A1",
+          "url": "https://patents.google.com/patent/WO2021168018A1/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-17",
+          "publication": "2021-08-26"
+        }
+      ],
+      "display_record": {
+        "record": "WO2021168018A1",
+        "url": "https://patents.google.com/patent/WO2021168018A1/en",
+        "priority": "2020-02-20",
+        "filing": "2021-02-17",
+        "publication": "2021-08-26"
+      }
+    },
+    {
+      "record": "HK40076753A",
+      "url": "https://patents.google.com/patent/HK40076753A/en",
+      "title": "Data compression for artificial intelligence-based base calling",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2020-02-20",
+      "filing": "2021-02-19",
+      "publication": "2023-02-17",
+      "family_id": null,
+      "records": [
+        {
+          "record": "HK40076753A",
+          "url": "https://patents.google.com/patent/HK40076753A/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-19",
+          "publication": "2023-02-17"
+        }
+      ],
+      "display_record": {
+        "record": "HK40076753A",
+        "url": "https://patents.google.com/patent/HK40076753A/en",
+        "priority": "2020-02-20",
+        "filing": "2021-02-19",
+        "publication": "2023-02-17"
+      }
+    },
+    {
+      "record": "HK40076752A",
+      "url": "https://patents.google.com/patent/HK40076752A/en",
+      "title": "Bus network for artificial intelligence-based base caller",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2020-02-20",
+      "filing": "2021-02-19",
+      "publication": "2023-02-17",
+      "family_id": null,
+      "records": [
+        {
+          "record": "HK40076752A",
+          "url": "https://patents.google.com/patent/HK40076752A/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-19",
+          "publication": "2023-02-17"
+        }
+      ],
+      "display_record": {
+        "record": "HK40076752A",
+        "url": "https://patents.google.com/patent/HK40076752A/en",
+        "priority": "2020-02-20",
+        "filing": "2021-02-19",
+        "publication": "2023-02-17"
+      }
+    },
+    {
+      "record": "US12106829B2",
+      "url": "https://patents.google.com/patent/US12106829B2/en",
+      "title": "Artificial intelligence-based many-to-many base calling",
+      "inventors": [
+        "Gery VESSERE"
+      ],
+      "priority": "2020-02-20",
+      "filing": "2023-07-13",
+      "publication": "2024-10-01",
+      "family_id": "77366218",
+      "records": [
+        {
+          "record": "US12106829B2",
+          "url": "https://patents.google.com/patent/US12106829B2/en",
+          "priority": "2020-02-20",
+          "filing": "2023-07-13",
+          "publication": "2024-10-01"
+        },
+        {
+          "record": "WO2021168353A2",
+          "url": "https://patents.google.com/patent/WO2021168353A2/en",
+          "priority": "2020-02-20",
+          "filing": "2021-02-19",
+          "publication": "2021-08-26"
+        }
+      ],
+      "display_record": {
+        "record": "WO2021168353A2",
+        "url": "https://patents.google.com/patent/WO2021168353A2/en",
+        "priority": "2020-02-20",
+        "filing": "2021-02-19",
+        "publication": "2021-08-26"
+      }
+    }
+  ]
+}
